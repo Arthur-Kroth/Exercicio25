@@ -15,3 +15,4 @@ public class Exercicio25 {
         JOptionPane.showMessageDialog(null,"A media de todos os numeros e: " + media);
     }
 }
+//editado =)
